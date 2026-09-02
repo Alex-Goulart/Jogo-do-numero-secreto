@@ -1,6 +1,7 @@
 Jogo do Número Secreto
 
 Sobre
+
 **Projeto desenvolvido durante o curso de Lógica de Programação da Alura.**
 ____________________________________________________________________________________
 Tecnologias
