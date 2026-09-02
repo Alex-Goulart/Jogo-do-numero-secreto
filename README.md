@@ -10,8 +10,11 @@ Tecnologias
 ___________________________________________________________________________________
 #### Colaborador
 
-<div style="display: inline-flex; flex-direction: column; align-items: center; text-align: center;">
-  <img src="https://github.com/Alex-Goulart.png" alt="Foto de Perfil" width="40" height="40" style="border-radius: 50%; display: block;" />
-  
-  <b style="margin-top: 4px;">Alex Goulart</b>
-</div>
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Alex-Goulart.png" alt="Foto de Perfil" width="40" height="40" style="border-radius: 50%;" /><br />
+      <b>Alex Goulart</b>
+    </td>
+  </tr>
+</table>
